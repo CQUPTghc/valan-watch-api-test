@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+reports/
+weilangsi-productdesign-main/
+维朗斯健康智能体 - API接口文档.openapi.json
+Valan_Watch_V1_测试用例与执行台账_汇总更新版.xlsx
